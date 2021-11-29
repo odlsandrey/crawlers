@@ -1,0 +1,5 @@
+Scrapy==2.4.0
+selenium==3.141.0
+PyDispatcher==2.0.5
+influxdb==5.3.1
+
