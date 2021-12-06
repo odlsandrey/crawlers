@@ -103,9 +103,9 @@ class UserAgent:
         return encode
 
     def swith(self, q):
-        if len(q) >= 58:
+        if len(q) >= 73:
             return False
-        elif len(q) < 58:
+        elif len(q) < 73:
             return True
 
     def body(self, qure):
